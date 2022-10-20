@@ -1,0 +1,24 @@
+
+2022/10/20 06:34:25:3425 - [INFO] Starting Test -- 1 out of 4 -- 1_VumatelPortal_Login                                                                                       
+
+2022/10/20 06:34:35:3435 - [PASS] Navigated to Vumatel                                                                                       
+
+2022/10/20 06:34:36:3436 - [PASS] Email entered                                                                                       
+
+2022/10/20 06:34:37:3437 - [PASS] Password entered                                                                                       
+
+2022/10/20 06:35:10:3510 - [FAIL] Failed to navigate to page selection page                                                                                        
+
+2022/10/20 06:35:10:3510 - [INFO] Starting Test -- 2 out of 4 -- 2_VumatelPortal_Orders_OrderAcceptance                                                                                       
+
+2022/10/20 06:35:55:3555 - [PASS] Successfully navigated to 'Order Acceptance' page                                                                                       
+
+2022/10/20 06:36:28:3628 - [FAIL] Failed to filter by date                                                                                        
+
+2022/10/20 06:36:28:3628 - [INFO] Starting Test -- 3 out of 4 -- 3_VumatelPortal_Network_Events                                                                                       
+
+2022/10/20 06:37:06:376  - [FAIL] Failed to click 'Vumatel Portal Page' div                                                                                        
+
+2022/10/20 06:37:06:376  - [INFO] Starting Test -- 4 out of 4 -- 4_VumatelPortal_Organization_UserManagement                                                                                       
+
+2022/10/20 06:37:44:3744 - [PASS] Successfully navigated to Vumatel portal page                                                                                       
